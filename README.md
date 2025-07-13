@@ -1,1 +1,0 @@
-# sage-questions-1
